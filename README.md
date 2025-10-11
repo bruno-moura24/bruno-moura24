@@ -1,19 +1,21 @@
-# Bruno Moura
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bruno-moura24)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:analisedigital@pm.me)
+# Bruno Moura
+### *Pesquisador em Inteligência Artificial e Ciberinteligência, focado em sistemas autônomos e segurança digital*
 
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-2F81F7?style=for-the-badge&logoColor=white)](https://bruno-moura24.github.io/developerFolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-moura24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analisedigital@pm.me)
 
 **Pesquisador de IA** • Estudante de Ciência da Computação • 21 anos
 
-Desenvolvedor com **ênfase em inteligência artificial local** e sistemas autônomos. Atualmente explorando LLMs offline, RAG systems, fine-tuning, LoRA, embeddings e busca vetorial usando Python e tecnologias open-source.
+</div>
+
+Desenvolvedor focado em **inteligência artificial local** e sistemas autônomos. Especializo-me em LLMs offline, RAG systems, fine-tuning e busca vetorial, criando soluções independentes que não dependem de serviços externos.
 
 ---
 
-## Core Skills
+## 🔬 Core Skills
 
 **🧠 Inteligência Artificial**
 - Large Language Models (Ollama, Fine-tuning, LoRA)
@@ -30,35 +32,72 @@ Desenvolvedor com **ênfase em inteligência artificial local** e sistemas autô
 
 ---
 
-## Projetos Destacados
+## 💼 Projetos Principais
 
-**� [Rabbit Hole Crawler](https://github.com/bruno-moura24/rabbit-hole-crawler)**  
-*Crawler inteligente com classificação semântica usando IA local*  
-`Ollama` `FAISS` `Clustering`
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-**🤖 [Chatbot Local Personalidade](https://github.com/bruno-moura24/chatbot_local_personalidade)**  
-*Chatbot offline com múltiplas personalidades e memória persistente*  
-`Ollama` `Gradio` `Python`
+### 🐰 [Rabbit Hole Crawler](https://github.com/bruno-moura24/rabbit-hole-crawler)
+*Crawler inteligente para YouTube com IA local (Ollama + Mistral), processamento semântico e clusterização de tópicos com FAISS*
 
-**📝 [IA Resumo Texto Local](https://github.com/bruno-moura24/ia-resumo-texto-local)**  
-*Sumarização automática 100% offline*  
-`NLP` `Ollama` `Text Processing`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-2F81F7?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-9A4DFF?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Mistral](https://img.shields.io/badge/Mistral-FF6B35?style=for-the-badge)
 
----
+</td>
+<td align="center" width="50%">
 
-## Tech Stack
+### 🖐️ [Hand Gesture AI](https://github.com/bruno-moura24/hand-gesture-ai)
+*Reconhecimento de gestos de mão em tempo real usando OpenCV, MediaPipe e aprendizado supervisionado com Scikit-learn*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/ML-F7931E?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-✨ *Building the future with AI* ✨
+### 🛰️ [Signal Sense](https://github.com/bruno-moura24/signal-sense)
+*Sistema de análise SIGINT com IA local (Ollama + Qwen2.5:7B), FAISS e pipeline de ciberinteligência para análise automatizada de sinais e comunicações*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Qwen2.5](https://img.shields.io/badge/Qwen2.5-7B2C7F?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2F81F7?style=for-the-badge)
+![SIGINT](https://img.shields.io/badge/SIGINT-8B0000?style=for-the-badge)
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2F81F7?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+*"A verdadeira inovação acontece quando a tecnologia serve às pessoas, não o contrário."*
+
+**📫 Veja mais em meu portfólio completo:** [bruno-moura24.github.io/developerFolio](https://bruno-moura24.github.io/developerFolio/)
 
 </div>
