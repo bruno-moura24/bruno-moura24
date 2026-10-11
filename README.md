@@ -27,6 +27,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:analisedigital@pm.me" title="Email">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/></a>
-  <a href="https://bruno-moura24.github.io/developerFolio/" title="Portfólio">
+  <a href="https://bruno-moura24.github.io/portfolio-v2" title="Portfólio">
   <img src="https://img.shields.io/badge/-Portfólio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
 </p>
